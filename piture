@@ -1,8 +1,1 @@
- .site-title,
-.site-subheading,
-.subtitle,
-.mom-list-section,
-.footer-banner,
-.footer-sub {
-    display: none !important;
-}
+
