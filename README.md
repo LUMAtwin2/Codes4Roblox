@@ -1,4 +1,4 @@
-# Codes4Roblox
+
 <header class="modern-header">
         <div class="container">
             <h1 class="site-title">Codes4Roblox</h1>
@@ -10,16 +10,7 @@
             <p class="subtitle">Best website for codes on Roblox</p>
         </section>
         <section class="mom-list-section">
-            <h2>Popular Roblox Codes</h2>
-            <ul class="mom-list">
-                <li>RELEASE2025</li>
-                <li>FREECOINS</li>
-                <li>ROBUX4U</li>
-                <li>WELCOME100</li>
-                <li>UPDATE50</li>
-                <li>EXTRAGEMS</li>
-                <li>MEGA2025</li>
-                <li>SECRETBOOST</li>
-                <li>PLAYNOW</li>
-                <li>THANKS4PLAYING</li>
-                
+            <h2>codes for blox fruits</h2>
+            <li><strong>SECRET_ADMIN</strong> – 20 minutes of 2x EXP</li>
+                <li><strong>CHANDLER</strong> – 0.5 Beli (joke code)</li>
+                <li><strong>KITT_RESET</strong> – Stat reset</li>
