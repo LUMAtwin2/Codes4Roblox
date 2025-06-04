@@ -1,0 +1,30 @@
+</div>
+    </header>
+    <main class="container">
+        <section class="intro-section">
+            <p class="subtitle">Best website for codes on Roblox</p>
+        </section>
+        <section class="mom-list-section">
+            <h2>Popular Roblox Codes</h2>
+            <ul class="mom-list">
+                <li>RELEASE2025</li>
+                <li>FREECOINS</li>
+                <li>ROBUX4U</li>
+                <li>WELCOME100</li>
+                <li>UPDATE50</li>
+                <li>EXTRAGEMS</li>
+                <li>MEGA2025</li>
+                <li>SECRETBOOST</li>
+                <li>PLAYNOW</li>
+                <li>THANKS4PLAYING</li>
+            </ul>
+        </section>
+        <div class="footer-banner">
+            I MADE THIS WEBSITE CL6B-LUCAS
+            <div class="footer-sub">yall dumb</div>
+        </div>
+    </main>
+    <script src="scripts/main.js"></script>
+</body>
+</html>
+
