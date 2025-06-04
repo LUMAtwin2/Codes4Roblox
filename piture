@@ -1,1 +1,8 @@
-    background: url('https://upload.wikimedia.org/wikipedia/commons/7/7b/Roblox_Logo_2017.png') repeat;
+ .site-title,
+.site-subheading,
+.subtitle,
+.mom-list-section,
+.footer-banner,
+.footer-sub {
+    display: none !important;
+}
